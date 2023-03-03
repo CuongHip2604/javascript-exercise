@@ -1,4 +1,4 @@
-# Exercise 04 - leapYears
+# Exercise 04 - checkValidUser
 
 # Task
 
